@@ -1,0 +1,1 @@
+print("Rak nadi azbii")
